@@ -1,6 +1,6 @@
-# bodegas-backend
+# Bodegas-backend
 
-API local de bodegas y productos. Cada producto pertenece a una bodega. Al iniciar, la aplicación crea las tablas en H2 y guarda dos bodegas y tres productos mediante los repositorios. Los datos se reinician al detener el proceso.
+Este repositorio contiene el desarrollo de una API local de bodegas y productos. Cada producto pertenece a una bodega. Al iniciar, la aplicación crea las tablas en H2 y guarda dos bodegas y tres productos mediante los repositorios. Los datos se reinician al detener el proceso.
 
 ## Ejecutar
 
